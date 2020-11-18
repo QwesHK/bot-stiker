@@ -1,2 +1,0 @@
-# bot-stiker
-Bot stiker
